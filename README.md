@@ -7,7 +7,7 @@ I am a problem solver, quantitative analyst and strategist with a knack for ever
 <p align='center'>Feel free to reach out to me and connect via <a href="https://www.linkedin.com/in/isabell-sophie-ventouris/">LinkedIn</a>🙂</p>
 
 <p align='center'>
-💪 A few of my fun skills! 
+💪 A few fun skills of mine! 
 </p>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
