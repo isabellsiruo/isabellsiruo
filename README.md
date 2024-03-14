@@ -6,6 +6,9 @@ I am a problem solver, quantitative analyst and strategist with a knack for ever
 </p>
 <p align='center'>Feel free to reach out to me and connect via <a href="https://www.linkedin.com/in/isabell-sophie-ventouris/">LinkedIn</a>🙂</p>
 
+<p align='center'>
+💪 Skills 
+</p>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
