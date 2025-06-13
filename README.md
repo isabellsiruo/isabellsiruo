@@ -6,7 +6,7 @@ I am Isabell - a data-driven problem solver with a background in quantitative re
 <p align='center'>Feel free to reach out to me and connect via <a href="https://www.linkedin.com/in/isabell-sophie-ventouris/">LinkedIn</a>🙂</p>
 
 <p align='center'>
-💪 A few fun skills of mine! 
+
 </p>
 
 ## 💻 Languages  
