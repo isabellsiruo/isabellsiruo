@@ -41,7 +41,9 @@ I am Isabell - a data-driven problem solver with a background in quantitative re
 ---
 
 ## ⚙️ Specialties  
+![](https://img.shields.io/badge/Specialty-API%20Development-informational?style=flat&color=2bbc8a)  
 ![](https://img.shields.io/badge/Specialty-JWT%20Auth-informational?style=flat&color=2bbc8a)  
+![](https://img.shields.io/badge/Specialty-Role--Based%20Access-informational?style=flat&color=2bbc8a)  
 ![](https://img.shields.io/badge/Specialty-ETL%20Pipelines-informational?style=flat&color=2bbc8a)  
 ![](https://img.shields.io/badge/Specialty-ML%20Deployment-informational?style=flat&color=2bbc8a)
 
