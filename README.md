@@ -1,4 +1,6 @@
-![Header](https://raw.githubusercontent.com/isabellventouris/isabellventouris/main/header.png "Header")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isabellventouris/isabellventouris/main/header.png" alt="Header image" />
+</p>
 
 <h1 align='center'> 🐕 :wave: 👧 🐈‍⬛ </h1>
 <p align='center'>
