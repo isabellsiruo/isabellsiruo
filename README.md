@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/isabellsiruo/isabellsiruo/main/you!.png "Header")
+![Header](https://raw.githubusercontent.com/isabellventouris/isabellventouris/main/you!.png "Header")
 <h1 align='center'> 🐕 :wave: 👧 🐈‍⬛ </h1>
 <p align='center'>
 I am Isabell - a data-driven problem solver with a background in quantitative research and applied data science. I focus on backend development, data engineering, and cloud workflows, with hands-on experience in Python, SQL, and tools like Flask, PostgreSQL, and BigQuery. Passionate about clean code, meaningful data, and animal rescue.
