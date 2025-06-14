@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isabellventouris/isabellventouris/main/header.png" alt="Header image" />
+  <img src="https://raw.githubusercontent.com/isabellventouris/isabellventouris/main/header.png" alt="Header image" width="100%" />
 </p>
 
-<h1 align='center'> 🐕 :wave: 👧 🐈‍⬛ </h1>
-<p align='center'>
-I am Isabell - a data-driven problem solver with a background in quantitative research and applied data science. I focus on backend development, data engineering, and cloud workflows, with hands-on experience in Python, SQL, and tools like Flask, PostgreSQL, and BigQuery. Passionate about clean code, meaningful data, and animal rescue.
-</p>
-<p align='center'>Feel free to reach out to me and connect via <a href="https://www.linkedin.com/in/isabell-sophie-ventouris/">LinkedIn</a>🙂</p>
+<h1 align='center'> 🐕 👋 👧 🐈‍⬛ </h1>
 
 <p align='center'>
-
+I am Isabell – a data-driven problem solver with a background in quantitative research and applied data science. I focus on backend development, data engineering, and cloud workflows, with hands-on experience in Python, SQL, and tools like Flask, PostgreSQL, and BigQuery. Passionate about clean code, meaningful data, and animal rescue.
 </p>
+
+<p align='center'>
+Feel free to reach out and connect via <a href="https://www.linkedin.com/in/isabell-sophie-ventouris/">LinkedIn</a> 🙂
+</p>
+
 
 ## 💻 Languages  
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
